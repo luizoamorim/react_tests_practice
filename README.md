@@ -1,6 +1,6 @@
 # Project Goals
 - Create a react project with create-react-app bootstrap.
-- Create tests using TDD (red and green methodology).
+- Create tests using TDD (red, green and refactor methodology).
 - Create a simple interface to pass in these tests.
 
 # Libraries
@@ -17,6 +17,8 @@ That means you need to know what the new feature needs to do and thinking about 
 you will create a test.
 Therefore, this test will fail and you will need to create a resource to pass the test.
 When you achieve success in the test created with the new built feature, the goal has been achieved.
+Another important concept is: The code must be as simple as possible to pass the test and then
+you refactor it if necessary.
 
 ![image](https://user-images.githubusercontent.com/73957838/117211632-a69bdc80-adcf-11eb-973a-5b847a113688.png)
 
