@@ -11,12 +11,14 @@ When you start an app with create-react-app, it already came with test libraries
 @testing-library/user-event
 ```
 
-# Test Driven Development
+# Test-Driven Development
 The main idea when you use this technique is to make the tests fail first.
 That means you need to know what the new feature needs to do and thinking about it
 you will create a test.
 Therefore, this test will fail and you will need to create a resource to pass the test.
 When you achieve success in the test created with the new built feature, the goal has been achieved.
+
+![image](https://user-images.githubusercontent.com/73957838/117211632-a69bdc80-adcf-11eb-973a-5b847a113688.png)
 
 # Structure
 Only one componet was builded to show the idea.
